@@ -1,5 +1,6 @@
 # Project-specific ignores.
 data
+utils/crawler/crawled_data
 trained/*.lda
 trained/*.state
 
